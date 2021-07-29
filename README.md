@@ -1,2 +1,3 @@
 # CSV-to-QR
-pip install qrcode[pil]
+
+1. pip install qrcode[pil]
